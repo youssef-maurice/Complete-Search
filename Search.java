@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class A2_Q1 {
+public class Search {
 
     //function to get the number of balls in a board
     public static int count_balls(String[][] board){
